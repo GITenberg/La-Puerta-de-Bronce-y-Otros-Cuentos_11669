@@ -1,0 +1,32 @@
+_repo: La-Puerta-de-Bronce-y-Otros-Cuentos_11669
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Romero de Terreros, Manuel, marqués de San Francisco
+    aliases:
+    - Romero de Terreros y Vinent, Manuel, marqués de San Francisco
+    - De Terreros, Manuel Romero, marqués de San Francisco
+    - Romero de Terreros, Manuel, marques de San Francisco
+    - Terreros, Manuel Romero de, marqués de San Francisco
+    birthdate: 1880
+    deathdate: 1968
+    gutenberg_agent_id: '4062'
+    url: http://www.gutenberg.org/2009/agents/4062
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11669'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: La puerta de bronce -- Un hombre práctico -- Similia similibus --
+  El amo viejo -- El cofre -- Tristis imago -- Los jugadores de ajedrez -- El sombrero
+  del rey de Tibotú -- El reportazgo -- Fray Baltasar -- El papagayo de Huichilobos.
+title: La Puerta de Bronce y Otros Cuentos
+url: http://www.gutenberg.org/ebooks/11669
